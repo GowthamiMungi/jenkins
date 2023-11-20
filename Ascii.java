@@ -1,4 +1,4 @@
-public class AsciiValue {
+class AsciiValue {
 
     public static void main(String[] args) {
 
